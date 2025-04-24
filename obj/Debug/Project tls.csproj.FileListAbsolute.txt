@@ -1,0 +1,7 @@
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\bin\Debug\Project tls.exe.config
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\bin\Debug\Project tls.exe
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\bin\Debug\Project tls.pdb
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\obj\Debug\Project tls.csproj.AssemblyReference.cache
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\obj\Debug\Project tls.csproj.CoreCompileInputs.cache
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\obj\Debug\Project tls.exe
+C:\Users\alumnotlsch\Source\Repos\Project tls\Project tls\obj\Debug\Project tls.pdb

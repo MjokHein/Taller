@@ -10,13 +10,16 @@ namespace Project_tls
     {
         static void Main(string[] args)
         {
-            Triangulo t1 = new Triangulo(0.5f, 0.2f);
-            Triangulo t2 = new Triangulo(Console.ReadLine(), "0.2");
+            Ola hola = new Ola();
+            hola.Start();
 
-            Cuadrado c = new Cuadrado (5,7);
+            //Triangulo t1 = new Triangulo(0.5f, 0.2f);
+            //Triangulo t2 = new Triangulo(Console.ReadLine(), "0.2");
 
-            Console.WriteLine("triangulo" + t1.Area());
-            Console.WriteLine("Cuadrado"  + c.Area());
+            //Cuadrado c = new Cuadrado (5,7);
+
+            //Console.WriteLine("triangulo" + t1.Area());
+            //Console.WriteLine("Cuadrado"  + c.Area());
         }
     }
 }

@@ -16,5 +16,6 @@ namespace Project_tls
             this.b = b;
             this.h = h;
         }
+        public float Area() => b * h;
     }
 }
